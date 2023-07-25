@@ -1,0 +1,14 @@
+.titulo{
+    text-align:center;
+    color:indigo;
+    font-style:bold;
+}
+.subtitulo{
+    padding-left: 25px;
+    color:aqua;
+    font-style:italic;
+}
+.paragrafo{
+    color:black;
+    padding-left: 25px;
+}
